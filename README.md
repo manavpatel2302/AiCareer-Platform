@@ -94,7 +94,3 @@ No open-source license is specified. Please add a license file if intending open
 
 - **Live demo**: [AI Studio App](https://ai.studio/apps/drive/1HuW15RrbbsGkiaLeYtbkinvjgg6NOmGl)
 - **API (Google Cloud)**: `ai-career-and-skills-advisor-1039912408803.us-west1.run.app`
-
-[19](https://www.youtube.com/watch?v=JINE4D0Syqw)
-[20](https://jobright.ai)
-[21](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
